@@ -1,0 +1,20 @@
+cimport.o: \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/o/34d385db1dc26344e9744c3804ab4c16/cimport.h \
+  C:/Users/Dan/Desktop/mach/pf/zigRpg/zig-cache/mach/gpu-dawn/release-d7b308b/include/dawn/webgpu.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/__config \
+  C:/ProgramData/chocolatey/bin/lib/include/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/crtdefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/corecrt.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw_mac.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw_secapi.h \
+  C:/ProgramData/chocolatey/bin/lib/include/vadefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/vadefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/sdks/_mingw_ddk.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/stddef.h \
+  C:/ProgramData/chocolatey/bin/lib/include/stddef.h \
+  C:/ProgramData/chocolatey/bin/lib/include/__stddef_max_align_t.h \
+  C:/Users/Dan/AppData/Local/zig/p/1220a6aa5e161806d191e6a39c08dab0c4af6f97147529d658266a48b473dbea299d/src/mach_dawn.h \
+  C:/Users/Dan/Desktop/mach/pf/zigRpg/zig-cache/mach/gpu-dawn/release-d7b308b/include/dawn/dawn_proc_table.h

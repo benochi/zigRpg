@@ -1,0 +1,26 @@
+cimport.o: \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/o/630f2f5abb5dca80a16d1d62bfffea5a/cimport.h \
+  C:/Users/Dan/AppData/Local/zig/p/1220fe0763e9722d56d3f93f8740e077fccf338d9697f08239d79a1ee27ae5833e62/include/GLFW/glfw3.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/stddef.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/__config \
+  C:/ProgramData/chocolatey/bin/lib/include/stddef.h \
+  C:/ProgramData/chocolatey/bin/lib/include/__stddef_max_align_t.h \
+  C:/ProgramData/chocolatey/bin/lib/libcxx/include/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/include/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/stdint.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/crtdefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/corecrt.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw_mac.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/_mingw_secapi.h \
+  C:/ProgramData/chocolatey/bin/lib/include/vadefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/vadefs.h \
+  C:/ProgramData/chocolatey/bin/lib/libc/include/any-windows-any/sdks/_mingw_ddk.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vulkan/vulkan.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vulkan/vk_platform.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vulkan/vulkan_core.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vk_video/vulkan_video_codec_h264std.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vk_video/vulkan_video_codecs_common.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vk_video/vulkan_video_codec_h264std_decode.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vk_video/vulkan_video_codec_h265std.h \
+  C:/Users/Dan/Desktop/mach/pf/zigrpg/zig-cache/i/f237565cd8e8d1d9bdd8b82de4ae04ce/include/vk_video/vulkan_video_codec_h265std_decode.h
